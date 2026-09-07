@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "fe32a95eee78abd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e1786befd79bfe9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cea9c56dc0ef63bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "动态系统的建模与分析/01 电路系统建模.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 电路系统建模"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da0829ec705af6e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a308287e1bc0c033",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c3b20b43cc628b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "d074295d9409fe5e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "d63079190f664402",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fa9016a080bdc324",
+    "type": "split",
+    "children": [
+      {
+        "id": "0703eb10279ab190",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b8fe3ac8fbefebd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "工程数学与动态系统笔记/02 非线性系统的局部线性化.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "9c5d369223d305a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "5177169fd9decdfa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "41c897430ffa749a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "f2b8a41de72604cc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "6c3b20b43cc628b2",
+  "lastOpenFiles": [
+    "工程数学与动态系统笔记.md",
+    "README.md",
+    "欢迎.md",
+    "矩阵求导课程笔记.md",
+    "数学公式写法.md",
+    "信号与系统课程笔记.md",
+    "学习导航.md",
+    "frame_work/02-Modules/01-算法/02-卡尔曼与四元数EKF.md",
+    "信号与系统课程笔记/07 DTFT、DFS、DFT 与 FFT.md",
+    "信号与系统课程笔记/01 课程导论与信号基础.md",
+    "自动控制原理课程笔记/04 终值定理、稳态误差与系统型别.md",
+    "自动控制原理课程笔记/02 稳定性、极点与初始条件.md",
+    "自动控制原理课程笔记/01 反馈结构与闭环传递函数.md",
+    "自动控制原理课程笔记.md",
+    "矩阵求导课程笔记/02 微分法与常用矩阵求导公式.md",
+    "矩阵求导课程笔记/01 导数布局、梯度与雅可比矩阵.md",
+    "工程数学与动态系统笔记/06 LTI 系统、冲激响应与卷积.md",
+    "工程数学与动态系统笔记/07 卷积定理与拉普拉斯变换.md",
+    "工程数学与动态系统笔记/02 非线性系统的局部线性化.md",
+    "矩阵求导课程笔记/05 公式速查与维度检查.md",
+    "矩阵求导课程笔记/04 矩阵链式法则与控制示例.md",
+    "矩阵求导课程笔记/03 最小二乘与线性回归.md",
+    "矩阵求导课程笔记",
+    "SubBatch_2026-09-07-16-44-44_MD/【矩阵的导数运算】3_矩阵求导的链式法则—【DR_CAN】—【2023-06-10】-中文.md",
+    "SubBatch_2026-09-07-16-44-44_MD/【矩阵的导数运算】2_案例分析_线性回归—【DR_CAN】—【2023-02-20】-中文.md",
+    "SubBatch_2026-09-07-16-44-44_MD/【矩阵的导数运算】1_标量向量方程对向量求导_分母布局_分子布局—【DR_CAN】—【2023-02-05】-中文.md",
+    "SubBatch_2026-09-07-16-44-44_MD",
+    "SubBatch_2026-09-07-16-44-44_MD.zip",
+    "工程数学与动态系统笔记/08 用 Simulink 搭建传递函数.md",
+    "未命名 3.base",
+    "未命名 2.base",
+    "未命名 1.base",
+    "未命名.base",
+    "信号与系统课程笔记",
+    "信号与系统/2022浙江大学信号与系统（含配套课件和代码） - 胡浩基老师—【胡浩基老师】—【2022-07-18】-中文.srt",
+    "信号与系统"
+  ]
+}
